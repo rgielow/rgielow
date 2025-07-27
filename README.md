@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá, sou Rodrigo Gielow! 👋
 
-<!--
-**rgielow/rgielow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rgielow&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
+Sou um desenvolvedor mobile, formado em cibersegurança, apaixonado por programação e cibersegurança e bitcoin. Estou focado em criar aplicações práticas e eficientes, com experiência em projetos de estudo e desafios reais. Atualmente, exploro tecnologias como Android (Kotlin), Kotlin Multiplataform e Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 **Localização**: Florianopolis-SC
+- 🔗 **LinkedIn**: [Rodrigo Gielow](https://www.linkedin.com/in/rodrigo-gielow/)
+
+## Habilidades Principais
+
+- **Linguagens de Programação**: Kotlin, Swift e Python
+- **Frameworks e Ferramentas**: Programador Android com SDK nativo por 10 anos e recentemente trabalhando em projetos KMP
+- **Áreas de Interesse**: Desenvolvimento mobile, cibersegurança e Bitcoin
