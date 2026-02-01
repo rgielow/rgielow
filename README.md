@@ -44,8 +44,12 @@ Além do código, sou um entusiasta de **Bitcoin** e segurança da informação,
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rgielow&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgielow&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=rgielow&show_icons=true&theme=radical" alt="Rodrigo's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgielow&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 ---
